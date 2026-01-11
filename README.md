@@ -2,7 +2,8 @@
 
 This repository contains an implementation of a Deep Q-Network (DQN) agent trained to play Atari Pong using the Gymnasium ALE environment and PyTorch.
 
-
+**Click to play the video below**
+https://github.com/sssure02/dqn-pong-atari/pong_trained-episode-1.mp4
 
 ## Overview
 The agent uses a convolutional neural network to approximate the action-value function from stacked grayscale game frames. Training follows the original DQN algorithm with experience replay and a target network for stability.
